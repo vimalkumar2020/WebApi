@@ -1,0 +1,208 @@
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\ApplicationInsights.config
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\ApiSample.dll.config
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\ApiSample.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\ApiSample.pdb
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\csc.exe
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\csc.exe.config
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\csc.rsp
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\csi.exe
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\csi.exe.config
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\csi.rsp
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.AppContext.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Collections.Immutable.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Console.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Diagnostics.Process.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.IO.Compression.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.IO.FileSystem.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.IO.Pipes.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Reflection.Metadata.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Security.AccessControl.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Security.Claims.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Security.Principal.Windows.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Threading.Thread.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.ValueTuple.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Xml.XmlDocument.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Xml.XPath.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\vbc.exe
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\vbc.exe.config
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\vbc.rsp
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\VBCSCompiler.exe
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\roslyn\VBCSCompiler.exe.config
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Antlr3.Runtime.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.Agent.Intercept.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.DependencyCollector.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.Web.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.WindowsServer.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Microsoft.ApplicationInsights.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Microsoft.Web.Infrastructure.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Newtonsoft.Json.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Net.Http.Formatting.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Web.Helpers.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Web.Http.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Web.Http.WebHost.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Web.Mvc.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Web.Optimization.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Web.Razor.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Web.WebPages.Deployment.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Web.WebPages.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Web.WebPages.Razor.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\WebGrease.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Newtonsoft.Json.xml
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Net.Http.Formatting.xml
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Web.Helpers.xml
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Web.Http.xml
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Web.Http.WebHost.xml
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Web.Mvc.xml
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Web.Optimization.xml
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Web.Razor.xml
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Web.WebPages.xml
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Web.WebPages.Deployment.xml
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\System.Web.WebPages.Razor.xml
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Antlr3.Runtime.pdb
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Microsoft.ApplicationInsights.xml
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.DependencyCollector.xml
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.WindowsServer.xml
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.Web.xml
+F:\TFS\IIHT\WEBAPI\ApiSample\obj\Debug\ApiSample.csprojResolveAssemblyReference.cache
+F:\TFS\IIHT\WEBAPI\ApiSample\obj\Debug\ApiSample.csproj.CoreCompileInputs.cache
+F:\TFS\IIHT\WEBAPI\ApiSample\obj\Debug\ApiSample.csproj.CopyComplete
+F:\TFS\IIHT\WEBAPI\ApiSample\obj\Debug\ApiSample.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\obj\Debug\ApiSample.pdb
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\DataAccess.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\EntityFramework.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\DataAccess.pdb
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\DataAccess.dll.config
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\EntityFramework.xml
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\EntityFramework.SqlServer.dll
+F:\TFS\IIHT\WEBAPI\ApiSample\bin\EntityFramework.SqlServer.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\ApplicationInsights.config
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\ApiSample.dll.config
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\ApiSample.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\ApiSample.pdb
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\csc.exe
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\csc.exe.config
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\csc.rsp
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\csi.exe
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\csi.exe.config
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\csi.rsp
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.AppContext.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Console.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.IO.Compression.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Security.Claims.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.ValueTuple.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\vbc.exe
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\vbc.exe.config
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\vbc.rsp
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Antlr3.Runtime.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\DataAccess.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\EntityFramework.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\EntityFramework.SqlServer.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.Web.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Newtonsoft.Json.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Net.Http.Formatting.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Web.Helpers.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Web.Http.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Web.Http.WebHost.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Web.Mvc.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Web.Optimization.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Web.Razor.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Web.WebPages.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Web.WebPages.Razor.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\WebGrease.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\DataAccess.pdb
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\DataAccess.dll.config
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\EntityFramework.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\EntityFramework.SqlServer.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Newtonsoft.Json.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Net.Http.Formatting.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Web.Helpers.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Web.Http.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Web.Http.WebHost.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Web.Mvc.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Web.Optimization.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Web.Razor.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Web.WebPages.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\System.Web.WebPages.Razor.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Antlr3.Runtime.pdb
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\bin\Microsoft.AI.Web.xml
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\obj\Debug\ApiSample.csprojResolveAssemblyReference.cache
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\obj\Debug\ApiSample.csproj.CoreCompileInputs.cache
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\obj\Debug\ApiSample.csproj.CopyComplete
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\obj\Debug\ApiSample.dll
+C:\Users\Theju.THEJU\Desktop\New folder (6)\WebApi\IIHT\WEBAPI\ApiSample\obj\Debug\ApiSample.pdb
