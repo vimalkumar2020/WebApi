@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PODbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ITEM">
+    <Key>
+      <PropertyRef Name="ITCODE" />
+    </Key>
+    <Property Name="ITCODE" Type="char" MaxLength="4" Nullable="false" />
+    <Property Name="ITDESC" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="ITRATE" Type="money" />
+  </EntityType>
+  <EntityType Name="PODETAIL">
+    <Key>
+      <PropertyRef Name="PONO" />
+      <PropertyRef Name="ITCODE" />
+    </Key>
+    <Property Name="PONO" Type="char" MaxLength="4" Nullable="false" />
+    <Property Name="ITCODE" Type="char" MaxLength="4" Nullable="false" />
+    <Property Name="QTY" Type="int" />
+  </EntityType>
+  <EntityType Name="POMASTER">
+    <Key>
+      <PropertyRef Name="PONO" />
+    </Key>
+    <Property Name="PONO" Type="char" MaxLength="4" Nullable="false" />
+    <Property Name="PODATE" Type="datetime" />
+    <Property Name="SUPLNO" Type="char" MaxLength="4" />
+  </EntityType>
+  <EntityType Name="SUPPLIER">
+    <Key>
+      <PropertyRef Name="SUPLNO" />
+    </Key>
+    <Property Name="SUPLNO" Type="char" MaxLength="4" Nullable="false" />
+    <Property Name="SUPLNAME" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="SUPLADDR" Type="varchar" MaxLength="40" />
+  </EntityType>
+  <Association Name="FK__PODETAIL__ITCODE__3F466844">
+    <End Role="ITEM" Type="Self.ITEM" Multiplicity="1" />
+    <End Role="PODETAIL" Type="Self.PODETAIL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ITEM">
+        <PropertyRef Name="ITCODE" />
+      </Principal>
+      <Dependent Role="PODETAIL">
+        <PropertyRef Name="ITCODE" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PODETAIL__PONO__3E52440B">
+    <End Role="POMASTER" Type="Self.POMASTER" Multiplicity="1" />
+    <End Role="PODETAIL" Type="Self.PODETAIL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="POMASTER">
+        <PropertyRef Name="PONO" />
+      </Principal>
+      <Dependent Role="PODETAIL">
+        <PropertyRef Name="PONO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__POMASTER__SUPLNO__3B75D760">
+    <End Role="SUPPLIER" Type="Self.SUPPLIER" Multiplicity="0..1" />
+    <End Role="POMASTER" Type="Self.POMASTER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SUPPLIER">
+        <PropertyRef Name="SUPLNO" />
+      </Principal>
+      <Dependent Role="POMASTER">
+        <PropertyRef Name="SUPLNO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="PODbModelStoreContainer">
+    <EntitySet Name="ITEM" EntityType="Self.ITEM" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PODETAIL" EntityType="Self.PODETAIL" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="POMASTER" EntityType="Self.POMASTER" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SUPPLIER" EntityType="Self.SUPPLIER" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__PODETAIL__ITCODE__3F466844" Association="Self.FK__PODETAIL__ITCODE__3F466844">
+      <End Role="ITEM" EntitySet="ITEM" />
+      <End Role="PODETAIL" EntitySet="PODETAIL" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PODETAIL__PONO__3E52440B" Association="Self.FK__PODETAIL__PONO__3E52440B">
+      <End Role="POMASTER" EntitySet="POMASTER" />
+      <End Role="PODETAIL" EntitySet="PODETAIL" />
+    </AssociationSet>
+    <AssociationSet Name="FK__POMASTER__SUPLNO__3B75D760" Association="Self.FK__POMASTER__SUPLNO__3B75D760">
+      <End Role="SUPPLIER" EntitySet="SUPPLIER" />
+      <End Role="POMASTER" EntitySet="POMASTER" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

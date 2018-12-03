@@ -1,0 +1,18 @@
+﻿@model ApiSample.Models.IndexModel
+@{
+    ViewBag.Title = "Supplier";
+}
+
+<h2>Suppliers</h2>
+
+<div id="DivGrid">
+    @{
+        var grid = new WebGrid(source: Model.SupplierList);
+        @grid.GetHtml(htmlAttributes: new { id = "DataTable" }, columns: grid.Columns(
+                            grid.Column("SUPLNO"),
+                            grid.Column("SUPLNAME"),
+                            grid.Column("SUPLADDR"),
+                            grid.Column("Edit", header: "Edit", format: @<text>@Html.ActionLink("Edit", "ShowSupplier", "Question1", new { id = item.SupplierId }, new { target = "_blank" })</text>),
+                                   grid.Column("Delete", header: "Delete", format: @<text>@Html.ActionLink("Delete", "DeleteSupplier", "Question1", new { id = item.SupplierId }, new { target = "_blank" })</text>)));
+    }
+</div>
